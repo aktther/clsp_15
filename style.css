@@ -1,0 +1,53 @@
+
+   
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.fulldiv li{
+    display: inline-block;
+}
+.fulldiv li a{
+    display: inline-block;
+    padding: 5px;
+    background-color: green;
+    color: white;
+    margin: -5px;
+    text-decoration: none;
+    
+    
+}
+.fulldiv{
+    text-align: center;
+    max-width: 100%;
+    background-color: aquamarine;
+    padding: 20px 0;
+    margin: -1px;
+}
+
+ 
+.div2{
+    text-align: center;
+    background: url(./pexels-craig-adderley-1563355.jpg) no-repeat brown ;
+    padding: 120px;
+    color: black;
+    background-position: center center;
+    background-size: contain;
+    margin-bottom: -20px;
+    
+    
+}
+.maindiv{
+    
+    width: 1024px;
+    text-align: center;
+    margin: 30px auto;
+}
+h2{
+    background-color:burlywood;
+    color: black;
+    padding: 15px;
+    
+}
